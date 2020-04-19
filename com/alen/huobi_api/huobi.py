@@ -1,24 +1,4 @@
 """
-  微信：Griezmann_JR
-  火币交易所推荐码：asd43
-  币安推荐码: 22795115
-  币安推荐链接：https://www.binance.co/?ref=22795115
-  Gateio交易所荐码：1100714
-  Bitmex交易所推荐码：SzZBil 或者 https://www.bitmex.com/register/SzZBil
-
-  代码地址： https://github.com/ramoslin02/51bitqunt
-  视频更新：首先在Youtube上更新，搜索51bitquant 关注我
-
-  1. bilibili.com
-  2. 优酷  youku.com
-  3. 百家号 baijiahao
-  4. 头条号 toutiao
-  5. 简书博客：https://www.jianshu.com/u/9afa76d7d7f0
-
-"""
-
-
-"""
 什么是API： Application Programming Interface, 应用程序接口.
 简单的说是通过  网络请求  给定的资源路径  可以获取到数据或者跟服务器进行 数据交换或者交互
 
